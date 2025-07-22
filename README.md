@@ -10,21 +10,24 @@
 
 ## 📁 Project Structure
 
-loan-default-prediction/
+loan-default-prediction
 │
-├── dataset/
-│   └── bank-loan.csv
+├── dataset
+│   └── "test1.csv"
+│   └── "train1.csv"
+│   
+├── notebooks
+│   ├── 1_"datacleaning1.ipynb"
+│   ├── 2_"EDA process.ipynb"
+│   └── 3_"ML.ipynb"
+│   └── 4_"submission.ipynb"
 │
-├── notebooks/
-│   ├── 1_cleaning.ipynb
-│   ├── 2_eda.ipynb
-│   └── 3_model.ipynb
 │
-├── models/
-│   └── final_model.pkl
+├── models
+│   └── "final_model.pkl"
 │
 │
-├── PPT/
+├── PPT
 │   └── Final_Presentation.pptx
 │
 ├── README.md
