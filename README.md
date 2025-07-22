@@ -10,6 +10,7 @@
 
 ## 📁 Project Structure
 
+```
 loan-default-prediction
 │
 ├── dataset
